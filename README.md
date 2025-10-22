@@ -1,1 +1,1 @@
-# Criando-Recursos-na-AWS-EC2-S3-Lambda
+🚀 Desafio de Código: Criando Recursos na AWS – EC2, S3, Lambda Visão Geral Este repositório contém a solução do desafio de código "Criando Recursos na AWS – EC2, S3, Lambda", parte do Bootcamp Santander Code Girls em parceria com a DIO (Digital Innovation One) e AWS.  O objetivo desta atividade é demonstrar a compreensão sobre a função principal dos serviços fundamentais da Amazon Web Services: Amazon EC2, Amazon S3, AWS Lambda e Amazon Machine Image (AMI), através de um exercício de associação de conceitos.
